@@ -13,7 +13,7 @@ int main(void)
 
 	num1 = 1;
 	num2 = 2;
-	check1 = check2 = 1;printf("%ld, %ld", num1, num2);
+	check1 = check2 = 1;
 	printf("%ld, %ld", num1, num2);
 	for (n = 0; n < 96; n++)
 	{
