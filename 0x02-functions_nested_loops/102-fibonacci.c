@@ -6,10 +6,11 @@
  * Return: Always 0 for success
  */
 
-int main (void)
+int main(void)
 {
 	int n;
 	long int num1, num2, fn;
+
 	num1 = 1;
 	num2 = 2;
 	printf("%ld, %ld", num1, num2);
